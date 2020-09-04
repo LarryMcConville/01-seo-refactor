@@ -25,11 +25,11 @@ For this project the customer requested we review their site for the following a
 - Included comments noting code changes as appropriate
 
 ### style.css
-- renamed `.header div` selector to `.header nav`
-- renamed `.header div ul` selector to `.header nav ul`
-- renamed `.header div ul li` selector to `.header nav ul li`
-- reorganized selectors to group like classes
-- included comments identifying logical groupings
+- Renamed `.header div` selector to `.header nav`
+- Renamed `.header div ul` selector to `.header nav ul`
+- Renamed `.header div ul li` selector to `.header nav ul li`
+- Reorganized selectors to group like classes
+- Included comments identifying logical groupings
 - Included comments noting code changes as appropriate
 
 ## Sources Referenced

@@ -32,7 +32,7 @@ For this project the customer requested we review their site for the following a
 - included comments identifying logical groupings
 - Included comments noting code changes as appropriate
 
-## Sourced References
+## Sources Referenced
 [w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp),
 [markdownguide](https://www.markdownguide.org/cheat-sheet/),
 [makeareadme](https://www.makeareadme.com/)
